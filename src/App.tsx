@@ -2,7 +2,7 @@ function App() {
 
   return (
     <>
-      <h1 className="text-lime-950">React with redux1</h1>
+      <h1 className="text-lime-950">React with redux</h1>
     </>
   )
 }
